@@ -1,0 +1,8 @@
+libs
+src/me/McFusion/FxGame/APIs/ScoreboardAPI.java
+src/me/McFusion/FxGame/Game.java
+src/me/McFusion/FxGame/Executors
+src/me/McFusion/FxGame/FusionPlayer.java
+src/database.yml
+src/players.yml
+*.iml

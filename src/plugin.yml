@@ -1,0 +1,5 @@
+name: FxGame
+author: McFusion
+main: me.McFusion.FxGame.FxGame
+version: 1.0
+commands:
